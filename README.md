@@ -1,5 +1,5 @@
-# Automated-Stuffs
-Things I could do in 10 minutes, but I spent 10 hours automating them 😎
+# Automated-Stuffs 💻
+Things I could do in 10 minutes, but I spent 10 hours automating them 😎 (Not actually 😉)
 
 > May be you won't find anything interesting here, I'm storing them on github to use later or I might need any help from those.
 
